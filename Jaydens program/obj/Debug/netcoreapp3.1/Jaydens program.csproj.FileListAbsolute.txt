@@ -1,0 +1,13 @@
+C:\Users\Danny\source\repos\Jaydens program\bin\Debug\netcoreapp3.1\Jaydens program.exe
+C:\Users\Danny\source\repos\Jaydens program\bin\Debug\netcoreapp3.1\Jaydens program.deps.json
+C:\Users\Danny\source\repos\Jaydens program\bin\Debug\netcoreapp3.1\Jaydens program.runtimeconfig.json
+C:\Users\Danny\source\repos\Jaydens program\bin\Debug\netcoreapp3.1\Jaydens program.runtimeconfig.dev.json
+C:\Users\Danny\source\repos\Jaydens program\bin\Debug\netcoreapp3.1\Jaydens program.dll
+C:\Users\Danny\source\repos\Jaydens program\bin\Debug\netcoreapp3.1\Jaydens program.pdb
+C:\Users\Danny\source\repos\Jaydens program\obj\Debug\netcoreapp3.1\Jaydens program.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\Jaydens program\obj\Debug\netcoreapp3.1\Jaydens program.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\Jaydens program\obj\Debug\netcoreapp3.1\Jaydens program.AssemblyInfo.cs
+C:\Users\Danny\source\repos\Jaydens program\obj\Debug\netcoreapp3.1\Jaydens program.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Jaydens program\obj\Debug\netcoreapp3.1\Jaydens program.dll
+C:\Users\Danny\source\repos\Jaydens program\obj\Debug\netcoreapp3.1\Jaydens program.pdb
+C:\Users\Danny\source\repos\Jaydens program\obj\Debug\netcoreapp3.1\Jaydens program.genruntimeconfig.cache
